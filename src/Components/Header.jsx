@@ -8,7 +8,7 @@ function Header() {
             <p className='header-price'>$921.48</p>
         </div>
         <div className="header-logo">
-            <img src="../public/images/logo.svg" alt="" />
+            <img src='../public/images/logo.svg' alt="" />
         </div>
     </div>
   )
